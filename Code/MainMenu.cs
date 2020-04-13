@@ -7,8 +7,9 @@ public class MainMenu : MonoBehaviour
 {
     //loads the next scene in the queue. in this case it would be the test map, but could launch a game
     public void PlayGame()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    { 
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // OG: SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        Debug.Log("This Scene is " + SceneManager.GetActiveScene().name); // names the current scene for testing the load game
     }
 
     //would exit out of the application
