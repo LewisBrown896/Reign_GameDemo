@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Menu.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/NatureStarterKit2/Scene/Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

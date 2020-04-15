@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7aed481bc8d8bee448bf2ae245d7762c
+timeCreated: 1488368056
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder:
+    Makinom.MakinomHandler: -100
+    Makinom.MakinomLateFixedTick: 1000
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

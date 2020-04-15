@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 646478493, guid: 7aed481bc8d8bee448bf2ae245d7762c, type: 3}
+  m_Name: EditorData
+  m_EditorClassIdentifier: 
+  lastProject: {fileID: 11400000, guid: 814e62713a24bb246be15d00323e3c8c, type: 2}
+  section: 0
+  subSection: 0
+  tabIndex: -1
+  scrollY: 0
+  helpDrag: 220
+  subSectionDrag: 250
+  tabListDrag: 250
+  formulaDrag: 250
+  schematicDrag: 400
+  guiEditorDrag: 500
+  jumpListDrag: 200
+  updateSchematics: 1
+  schematicUpdateFolder: 
+  updatePrefabs: 0
+  updateScenes: 0
+  sceneUpdate: 
+  schematicAsset: []
+  variablesDefined: []
+  variablesEditor: []
+  variablesSchematic: []
+  variablesScene: []
