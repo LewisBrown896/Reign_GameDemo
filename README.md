@@ -3,3 +3,6 @@ Capstone project for spring 2020 This game allows the user to walk around a 3d f
 
 # Table of contents:
 * Background
+* Technologies used
+* Risks and Challenges
+* Future Development
