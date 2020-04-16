@@ -67,3 +67,6 @@ There were two big noticable challenges when making this project. The First Chal
             }
         }
 ```
+# Future Development  
+The development for future iterations of this game will slowly build upon the what was original project was supposed to be and that will be an RPG based upon the table top game D&D. There are several tutorials on the internet and a lot of resources from unity themselves on how to make small RPG. There are also several books and other online resources. But for now the future interations will have to be about patching several known bugs such as the enemy losing line of sight way too easy, snaping the camera to the head properly, the player character attacking sideways, and the menu popping up way too fast on death. further into the Future additions to the game will include a quest system and an inventory system to start up that original idea of creating an rpg.  
+2020 Lewis Brown
