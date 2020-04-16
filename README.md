@@ -14,5 +14,5 @@ This project came about because some of my colleagues were talking about the rol
 1. MakeHuman (Version 1.1.1)  
 Website: http://www.makehumancommunity.org/  
 There were a couple of softwares that were used for this project. One of the first Softwares used was MakeHuman. MakeHuman is a free open-source program designed for giving users an easy way of creating 3D humanoids. Also has a large repository of 3D assets for your created model. This program was used to make the player character by selecting the zombie humanoid model then adding warlock robes and a medieval helmet.    
-![Player Character](/docs/1A.png)
+![Player Character](/docs/2A.png)
 
