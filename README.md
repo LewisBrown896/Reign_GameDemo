@@ -35,4 +35,14 @@ Microsoft's IDE that is able to create scripts for the game written in c#. Visua
   
 4. Adobe mixamo
 Website: https://www.mixamo.com/#/  
-Adobe mixamo is a website that makes animation and rigging a lot easier. Mixamo has a large library of free 3d models and animations. You can even upload your own 3d model and it will place the skeleton inside that model. This website will be used in this project for is vast array of animations.
+Adobe mixamo is a website that makes animation and rigging a lot easier. Mixamo has a large library of free 3d models and animations. You can even upload your own 3d model and it will place the skeleton inside that model. This website will be used in this project for is vast array of animations.  
+  
+# Risks and Challenges
+Risks  
+There we not that many risk that were dealt with, but one risk was importing items for the asset store and that item prevents you from running the game. Another risk would be crashes, they do not happen often but they haved caused some set backs.  
+  
+Challenges  
+There were two big noticable challenges when making this project. The First Challenge was the animations, the challenges were that if they were implemented improperly they would cause all sorts of problems such as endlessly looping through all the animations at once, only finishing half of an animation, or messing with your character model. The second challenge was implementing an enemy AI that one prbably took the longest and caused some minor set backs, such as the character just wondering around to just doing nothing, but eventually a very simple code was emplemented that will start a chase when the player reaches a certain amount of feet around the Enemy, then the enemy will follow and try and attack.  
+```
+
+
