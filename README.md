@@ -42,11 +42,11 @@ Risks
 There we not that many risk that were dealt with, but one risk was importing items for the asset store and that item prevents you from running the game. Another risk would be crashes, they do not happen often but they haved caused some set backs.  
   
 Challenges  
-There were two big noticable challenges when making this project. The First Challenge was the animations, the challenges were that if they were implemented improperly they would cause all sorts of problems such as endlessly looping through all the animations at once, only finishing half of an animation, or messing with your character model. The second challenge was implementing an enemy AI that one prbably took the longest and caused some minor set backs, such as the character just wondering around to just doing nothing, but eventually code was emplemented that will start a chase when the player reaches a certain amount of feet around the Enemy, then the enemy will follow and try and attack.  
+There were two big noticable challenges when making this project. The First Challenge was the animations, the challenges were that if they were implemented improperly they would cause all sorts of problems such as endlessly looping through all the animations at once, only finishing half of an animation, or messing with your character model. The second challenge was implementing an enemy AI that one prbably took the longest and caused some minor set backs, such as the character just wondering around to just doing nothing, but eventually code was emplemented that will start a chase when the player reaches a certain amount of feet around the Enemy, then the enemy will follow and will attack if the player.  
 ```
  if (Vector3.Distance(player.position, this.transform.position) < 30) // if player is in a distance of 30 of the enemy
         {
-            
+             Vector3 direction = player.position - this.transform.position;
             direction.y = 0; //skeleton doesnt follow on the y axis
 
             this.transform.rotation = Quaternion.Slerp(this.transform.rotation, Quaternion.LookRotation(direction), 0.1f); //turns entire body to look at player
